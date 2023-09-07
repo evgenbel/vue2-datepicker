@@ -189,7 +189,7 @@ export default {
       return this.formatDate(this.innerValue);
     },
     showClearIcon() {
-      return !this.disabled && this.clearable && this.text && this.mouseInInput;
+      return !this.disabled && this.clearable && this.text;
     },
     locale() {
       if (isObject(this.lang)) {
