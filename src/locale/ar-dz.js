@@ -1,4 +1,4 @@
-import DatePicker from 'vue2-datepicker';
+import DatePicker from 'vue2-datepicker-c';
 import arDZ from 'date-format-parse/lib/locale/ar-dz';
 
 const lang = {

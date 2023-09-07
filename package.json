@@ -1,10 +1,10 @@
 {
-  "name": "vue2-datepicker",
+  "name": "vue2-datepicker-c",
   "description": "A Datepicker Component For Vue2",
   "main": "index.js",
   "module": "index.esm.js",
   "alias": {
-    "vue2-datepicker": "./src/index.js"
+    "vue2-datepicker-c": "./src/index.js"
   },
   "files": [
     "/locale",
@@ -113,7 +113,7 @@
       "jest-serializer-vue"
     ],
     "moduleNameMapper": {
-      "vue2-datepicker": "<rootDir>/src"
+      "vue2-datepicker-c": "<rootDir>/src"
     },
     "coverageReporters": [
       "text",

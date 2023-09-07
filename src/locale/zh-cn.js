@@ -1,4 +1,4 @@
-import DatePicker from 'vue2-datepicker';
+import DatePicker from 'vue2-datepicker-c';
 import zhCN from 'date-format-parse/lib/locale/zh-cn';
 
 const lang = {
